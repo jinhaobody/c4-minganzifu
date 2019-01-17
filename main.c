@@ -41,6 +41,15 @@ int main()
         }
         if (code == 3)
         {
+            printf("ccc\n");
+            for (int i = 0; i < index; i++)
+            {
+                printf("%c\n", arr[i]);
+            }
+            printf("ccc\n");
+            char x;
+            scanf("%c", &x);
+            scanf("%c", &x);
         }
         if (code == 4)
         {
