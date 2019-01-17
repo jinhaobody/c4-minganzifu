@@ -32,6 +32,12 @@ int main()
         }
         if (code == 2)
         {
+            printf("bbb\n");
+            index--;
+            printf("bbb\n");
+            char x;
+            scanf("%c", &x);
+            scanf("%c", &x);
         }
         if (code == 3)
         {
